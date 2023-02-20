@@ -6,6 +6,6 @@
   "domain": "growatt_solar_modbus",
   "iot_class": "local_polling",
   "name": "Growatt Solar Modbus",
-  "requirements": ["growatt-client==1.0.5"],
+  "requirements": ["growatt-client==1.0.6"],
   "version": "1.0.0"
 }
