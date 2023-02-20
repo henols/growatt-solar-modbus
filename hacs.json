@@ -1,0 +1,5 @@
+{
+  "name": "Growatt Solar Modbus",
+  "render_readme": true,
+  "iot_class": "local_polling"
+}

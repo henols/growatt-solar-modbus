@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@henols"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/henols/growatt_solar_modbus/",
+  "domain": "growatt_solar_modbus",
+  "iot_class": "local_polling",
+  "name": "Growatt Solar Modbus",
+  "requirements": ["growatt-client==1.0.5"],
+  "version": "1.0.0"
+}
